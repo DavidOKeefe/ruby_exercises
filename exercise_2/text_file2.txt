@@ -1,0 +1,5 @@
+This is a test
+
+To see if contents from this file: File 1
+
+Can be moved to file 2.
