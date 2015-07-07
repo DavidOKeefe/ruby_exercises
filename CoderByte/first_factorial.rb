@@ -2,8 +2,6 @@ def FirstFactorial(num)
   return num.downto(1).inject(:*)
 end
 
-
-
 require "minitest/spec"
 require "minitest/autorun"
 
@@ -16,6 +14,3 @@ describe "FirstFactorial" do
     FirstFactorial(8).must_equal 40320
   end
 end
-
-
-
