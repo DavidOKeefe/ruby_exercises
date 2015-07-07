@@ -1,5 +1,5 @@
 def FirstFactorial(num)
-  return num.downto(1).inject(1) { |result, element| result * element}
+  return num.downto(1).inject() { |result, element| result * element}
 end
 
 require "minitest/spec"
