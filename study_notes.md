@@ -9,3 +9,5 @@
  - Review RubySpec
  - Review http://rspec.info
  - CodeSchool Ruby Bits Level 4
+ - CodeSchool Ruby Bits Level 5
+ - CodeSchool Ruby Bits Level 6
