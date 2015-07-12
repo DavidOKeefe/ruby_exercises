@@ -11,3 +11,6 @@
  - CodeSchool Ruby Bits Level 4
  - CodeSchool Ruby Bits Level 5
  - CodeSchool Ruby Bits Level 6
+
+07/11/2015
+  - To the Victor - Created scorecard
