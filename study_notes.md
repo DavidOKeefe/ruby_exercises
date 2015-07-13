@@ -13,4 +13,9 @@
  - CodeSchool Ruby Bits Level 6
 
 07/11/2015
-  - To the Victor - Created scorecard
+  - Personal Project: To the Victor - Created scorecard
+
+07/12/2015
+  - Beginning Ruby Chapter 7
+  - Codeschool Ruby Bits2 Levels 1-2
+  - Codeschool Rails for Zombies Levels 1-5
