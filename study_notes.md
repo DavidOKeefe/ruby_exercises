@@ -19,3 +19,12 @@
   - Beginning Ruby Chapter 7
   - Codeschool Ruby Bits2 Levels 1-2
   - Codeschool Rails for Zombies Levels 1-5
+
+07/13/2015
+  - Ruby Monk primer
+  - Primer problems:
+    - Palindromes
+    - Compute sum of cubes for given range
+    - Check if all elements in array are Fixnum
+    - Find non-duplicate values in an Array
+    - Hiring Programmers - Boolean Expressions
