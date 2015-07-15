@@ -28,3 +28,7 @@
     - Check if all elements in array are Fixnum
     - Find non-duplicate values in an Array
     - Hiring Programmers - Boolean Expressions
+
+07/14/2015
+  - Eloquent Ruby chapters 10,11, and 12
+  - Codeschool HTML and CSS Front End Foundations. Lessons 1 and 2
