@@ -31,4 +31,9 @@
 
 07/14/2015
   - Eloquent Ruby chapters 10,11, and 12
-  - Codeschool HTML and CSS Front End Foundations. Lessons 1 and 2
+  - Codeschool HTML and CSS Front End Foundations Lessons 1 and 2
+
+07/15/2015
+  - Codeschool HTML and CSS Front End Foundations Lessons 3, 4, and 5
+  - Codeschool HTML and CSS Front End Formations Lesson 1
+  - Eloquent Ruby 13, 14, 15
