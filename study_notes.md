@@ -37,3 +37,12 @@
   - Codeschool HTML and CSS Front End Foundations Lessons 3, 4, and 5
   - Codeschool HTML and CSS Front End Formations Lesson 1
   - Eloquent Ruby 13, 14, 15
+
+07/16/2015
+  - Hartl tutorial chapters 1 and 2
+  - Exeorcisms: hamming and gigasecond
+  - Nerd club
+
+07/17/2015
+  - Eloquent Ruby 16, 17
+  - Codeschool HTML and CSS Front End Formations Lessons 2, 3, 4, and 5
