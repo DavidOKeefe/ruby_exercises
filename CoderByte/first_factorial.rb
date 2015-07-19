@@ -1,11 +1,11 @@
-def FirstFactorial(num)
+def first_factorial(num)
   return num.downto(1).inject() { |result, element| result * element}
 end
 
 require "minitest/spec"
 require "minitest/autorun"
 
-describe "FirstFactorial" do
+describe "first_factorial" do
   it "returns the factorial of 4 as 24" do
     FirstFactorial(4).must_equal 24
   end
