@@ -46,3 +46,11 @@
 07/17/2015
   - Eloquent Ruby 16, 17
   - Codeschool HTML and CSS Front End Formations Lessons 2, 3, 4, and 5
+
+07/18/2015
+  - Test First Ruby exercises 06 - Performance Test and 08 - Books
+  - CoderByte challenge letter_changes
+  - DBC Prep
+    - VARK learning style
+    - 9 habits of successful people
+    - Mike Busch lecture on feedback
