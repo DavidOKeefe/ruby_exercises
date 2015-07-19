@@ -22,8 +22,3 @@ describe "simple_symbols" do
     simple_symbols("+z+z+z+").must_equal true
   end
 end
-
-
-# "+z+z+z+"
-# "2+a+a+"
-# "+z+z+==+a+"
