@@ -54,3 +54,11 @@
     - VARK learning style
     - 9 habits of successful people
     - Mike Busch lecture on feedback
+
+07/19/2015
+  - Coderbyte challenges:
+    - Simple Adding
+    - Letter Capitalize
+    - Simple Symbols
+  - Treehouse JavaScript Basics lessons 1, 2, and 3
+  - Terminology flashcards
