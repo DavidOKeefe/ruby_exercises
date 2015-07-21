@@ -62,3 +62,10 @@
     - Simple Symbols
   - Treehouse JavaScript Basics lessons 1, 2, and 3
   - Terminology flashcards
+
+07/20/2015
+  - Coderbyte challenges:
+    -Time Convert
+    - Check Nums
+  - Treehouse Javascript Basics lessons 4 and 5
+  - Terminology flashcards
