@@ -67,5 +67,15 @@
   - Coderbyte challenges:
     -Time Convert
     - Check Nums
-  - Treehouse Javascript Basics lessons 4 and 5
+  - Treehouse JavaScript Basics lessons 4 and 5
+  - Terminology flashcards
+
+07/21/2015
+  - Eloquent Ruby 18
+  - Coderbyte challenges:
+    - Alphabet Soup
+    - AB Check
+    - Vowel Count
+  - Treehouse JavaScript loops, arrays, and objects lesson 1
+  - CodeSchool Try SQL
   - Terminology flashcards
