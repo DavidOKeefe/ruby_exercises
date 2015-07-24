@@ -79,3 +79,20 @@
   - Treehouse JavaScript loops, arrays, and objects lesson 1
   - CodeSchool Try SQL
   - Terminology flashcards
+
+07/22/2015
+  - Refactoring Ruby Chapter 1 & 2
+  - JavaScript The Good Parts chapter 1
+  - Treehouse JavaScript loops, arrays, and objects lessons 2 and 3
+  - Coderbyte challenges:
+    - Word Count
+    - Prime Time
+    - ExOh
+  - Git Branching and Merging
+
+07/23/2015
+  - CodeSchool Rails Testing for Zombies level 1 Test Unit
+  - JavaScript The Definitive Guide Chapter 1
+  - A Mind for Numbers - Chapters 1 and 2
+  - Coderbyte challenge:
+    - Palindrome
