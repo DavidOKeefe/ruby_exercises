@@ -96,3 +96,13 @@
   - A Mind for Numbers - Chapters 1 and 2
   - Coderbyte challenge:
     - Palindrome
+
+07/24/2015
+  - Ruby Monk Primer - Intro to I/O and exercises:
+    - Your Sum
+    - Enough Contrast
+    - Kaprekar's Number
+    - Compute sum of cubes for given range
+  - Ruby Monk Ascent - Blocks, Classes: Inheritance, and More Classes
+  - A Mind for Numbers - Chapter 3
+  - POODR - Chapter 1
