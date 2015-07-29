@@ -103,6 +103,24 @@
     - Enough Contrast
     - Kaprekar's Number
     - Compute sum of cubes for given range
-  - Ruby Monk Ascent - Blocks, Classes: Inheritance, and More Classes
+  - Ruby Monk Ascent - Blocks, Classes: Inheritance
   - A Mind for Numbers - Chapter 3
   - POODR - Chapter 1
+
+07/25/2015
+  - Ruby Monk Ascent - More Classes and Advanced Arrays
+  - created basic davidokeefe.website using rails
+
+07/26/2015
+  - Rspec book chapter 1
+  - Codeschool Rspec lesson 1
+
+07/27/2015
+  - Codeschool Rails for Zombies 2 lessons 1 & 2
+
+07/28/2015
+  - Coderbyte challenges:
+    - Arith Geo
+    - Array Addition 1
+    - Letter Count 1
+  - A Mind for Numbers - Chapter 4
