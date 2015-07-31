@@ -124,3 +124,10 @@
     - Array Addition 1
     - Letter Count 1
   - A Mind for Numbers - Chapter 4
+
+07/29/2015
+  - Ruby AIR meetup - API project using sinatra and haml
+
+07/30/2015
+  - Refactored Letter Count solution using classes
+  - POODR - Chapter 2
