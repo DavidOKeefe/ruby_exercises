@@ -1,14 +1,33 @@
-def letter_count(str)
-  words_arr = str.split(" ")
-  letters_arr = words_arr.map { |word| word.to_s.split('') }
-  letter_count = letters_arr.map do |word_arr|
-    word_arr.map { |letter| word_arr.count(letter) }
+class LetterCount
+  attr_reader :phrase
+
+  def initialize(phrase)
+    @phrase = phrase
   end
-  max_repeated_letter = letter_count.map { |num| num.max }
-  if max_repeated_letter.max > 1
-    max_word_index = max_repeated_letter.index(max_repeated_letter.max)
-    words_arr[max_word_index]
-  else
-    -1
+
+  def word_with_max_letters
+    (max_repeated_letters.max > 1) ? words[max_word_index] : -1
+  end
+
+  private
+
+  def words
+    phrase.split(' ')
+  end
+
+  def word_letters
+    words.map { |word| word.split('') }
+  end
+
+  def letter_count
+    word_letters.map { |word| word.map { |letter| word.count(letter) } }
+  end
+
+  def max_repeated_letters
+    letter_count.map { |num| num.max }
+  end
+
+  def max_word_index
+    max_repeated_letters.index(max_repeated_letters.max)
   end
 end
